@@ -1,0 +1,12 @@
+numpy
+pandas
+librosa
+soundfile
+tqdm
+scikit-learn
+torch
+transformers
+sentence-transformers
+whisper
+language-tool-python
+joblib
